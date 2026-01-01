@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Rodrigo Alex
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 <p>Me chamo Rodrigo Alex, tenho 16 anos e sou natural de Osasco, SP. Estou realizando o Ensino Médio no Instituto J&F, com o curso técnico em desenvolvimento de sistemas. Atualmente, estou realziando estágio na mesma área na LHG Mining.</p>
 
